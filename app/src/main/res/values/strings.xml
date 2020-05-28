@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lazada</string>
+    
+    <string name="splash_text_1">Thế giới mua sắm trong tầm tay bạn</string>
+    <string name="splash_text_2">Giao hàng tận nơi + thanh toán dễ dàng</string>
+    <string name="splash_text_3">100% bảo vệ người tiêu dùng</string>
 </resources>
