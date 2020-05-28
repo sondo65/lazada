@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import sondo65.com.lazada.R
+import sondo65.com.lazada.views.main.MainActivity
 
 class SplashActivity : AppCompatActivity() {
 

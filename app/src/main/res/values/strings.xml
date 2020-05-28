@@ -4,4 +4,14 @@
     <string name="splash_text_1">Thế giới mua sắm trong tầm tay bạn</string>
     <string name="splash_text_2">Giao hàng tận nơi + thanh toán dễ dàng</string>
     <string name="splash_text_3">100% bảo vệ người tiêu dùng</string>
+
+    <string name="fragment_text_electronic">Điện tử</string>
+    <string name="fragment_text_highlights">Nổi bật</string>
+    <string name="fragment_text_promotions">Chương trình khuyến mãi</string>
+    <string name="fragment_text_home_and_life">Nhà cửa và đời sống</string>
+    <string name="fragment_text_mom_and_baby">Mẹ và bé</string>
+    <string name="fragment_text_make_beauty">Làm đẹp</string>
+    <string name="fragment_text_make_fashion">Thời trang</string>
+    <string name="fragment_text_sport_and_travel">Thể thao &amp; Du lịch</string>
+    <string name="fragment_text_trademark">Thương hiệu</string>
 </resources>
